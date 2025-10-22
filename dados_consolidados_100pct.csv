@@ -1,0 +1,116 @@
+curso,cidade,turno,vagas,modalidade,inscricoes,candidatos_por_vaga,taxa_ocupacao,tipo_curso
+Administração,Anápolis,Noturno,40,Bacharelado,181,4.53,452.5,Bacharelado
+Administração,Aparecida de Goiânia,Noturno,40,Bacharelado,192,4.8,480.0,Bacharelado
+Administração,Caldas Novas,Noturno,40,Bacharelado,147,3.68,367.5,Bacharelado
+Administração,Luziânia,Noturno,40,Bacharelado,135,3.38,337.5,Bacharelado
+Administração,Santa Helena de Goiás,Noturno,40,Bacharelado,50,1.25,125.0,Bacharelado
+Agroecologia,Campos Belos,Matutino,30,Superior de Tecnologia,31,1.03,103.3,Tecnólogo
+Agroindústria,Jataí,Noturno,30,Superior de Tecnologia,17,0.57,56.7,Tecnólogo
+Agronomia,Ipameri,Integral,30,Bacharelado,147,4.9,490.0,Bacharelado
+Agronomia,Palmeiras de Goiás,Integral,30,Bacharelado,143,4.77,476.7,Bacharelado
+Agronomia,Posse,Integral,30,Bacharelado,138,4.6,460.0,Bacharelado
+Arquitetura e Urbanismo,Anápolis,Integral,30,Bacharelado,147,4.9,490.0,Bacharelado
+Biomedicina,Goiânia - Eseffego,Vespertino,30,Bacharelado,1004,33.47,3346.7,Bacharelado
+Ciências Biológicas,Anápolis,Matutino,30,Licenciatura,87,2.9,290.0,Licenciatura
+Ciências Biológicas,Iporá,Noturno,40,Licenciatura,39,0.98,97.5,Licenciatura
+Ciências Biológicas,Palmeiras de Goiás,Noturno,40,Licenciatura,34,0.85,85.0,Licenciatura
+Ciências Biológicas,Porangatu,Matutino,40,Licenciatura,18,0.45,45.0,Licenciatura
+Ciências Biológicas,Quirinópolis,Noturno,40,Licenciatura,55,1.38,137.5,Licenciatura
+Ciências Contábeis,Anápolis,Noturno,40,Bacharelado,119,2.98,297.5,Bacharelado
+Ciências Contábeis,Aparecida de Goiânia,Noturno,40,Bacharelado,153,3.82,382.5,Bacharelado
+Ciências Contábeis,Jaraguá,Noturno,40,Bacharelado,82,2.05,205.0,Bacharelado
+Ciências Contábeis,Morrinhos,Noturno,40,Bacharelado,73,1.82,182.5,Bacharelado
+Ciências Contábeis,Uruaçu,Noturno,40,Bacharelado,115,2.88,287.5,Bacharelado
+Ciências Econômicas,Anápolis,Noturno,40,Bacharelado,60,1.5,150.0,Bacharelado
+Ciências Econômicas,Itumbiara,Noturno,40,Bacharelado,90,2.25,225.0,Bacharelado
+Cinema e Audiovisual,Goiânia - Laranjeiras,Matutino,40,Bacharelado,168,4.2,420.0,Bacharelado
+Design de Moda,Goiânia - Laranjeiras,Noturno,40,Bacharelado,125,3.12,312.5,Bacharelado
+Direito,Aparecida de Goiânia,Matutino,40,Bacharelado,910,22.75,2275.0,Bacharelado
+Direito,Aparecida de Goiânia,Noturno,40,Bacharelado,752,18.8,1880.0,Bacharelado
+Direito,Iporá,Matutino,40,Bacharelado,334,8.35,835.0,Bacharelado
+Direito,Jaraguá,Matutino,40,Bacharelado,285,7.12,712.5,Bacharelado
+Direito,Morrinhos,Matutino,40,Bacharelado,277,6.92,692.5,Bacharelado
+Direito,Palmeiras de Goiás,Matutino,40,Bacharelado,218,5.45,545.0,Bacharelado
+Direito,Pires do Rio,Matutino,40,Bacharelado,232,5.8,580.0,Bacharelado
+Direito,Uruaçu,Matutino,40,Bacharelado,385,9.62,962.5,Bacharelado
+Educação Física,Goiânia - Eseffego,Matutino,30,Bacharelado e Licenciatura,274,9.13,913.3,Licenciatura
+Educação Física,Goiânia - Eseffego,Noturno,30,Bacharelado e Licenciatura,255,8.5,850.0,Licenciatura
+Educação Física,Itumbiara,Matutino,40,Bacharelado e Licenciatura,111,2.78,277.5,Licenciatura
+Educação Física,Porangatu,Matutino,40,Bacharelado e Licenciatura,55,1.38,137.5,Licenciatura
+Educação Física,Quirinópolis,Matutino,40,Bacharelado e Licenciatura,63,1.58,157.5,Licenciatura
+Enfermagem,Ceres,Integral,30,Bacharelado,119,3.97,396.7,Bacharelado
+Enfermagem,Itumbiara,Integral,30,Bacharelado,155,5.17,516.7,Bacharelado
+Engenharia Agrícola,Anápolis,Integral,30,Bacharelado,69,2.3,230.0,Bacharelado
+Engenharia Civil,Anápolis,Integral,30,Bacharelado,165,5.5,550.0,Bacharelado
+Engenharia Florestal,Ipameri,Integral,30,Bacharelado,13,0.43,43.3,Bacharelado
+Farmácia,Anápolis,Integral,30,Bacharelado,316,10.53,1053.3,Bacharelado
+Farmácia,Itumbiara,Integral,30,Bacharelado,98,3.27,326.7,Bacharelado
+Física,Anápolis,Noturno,30,Licenciatura,23,0.77,76.7,Licenciatura
+Fisioterapia,Goiânia - Eseffego,Integral,30,Bacharelado,492,16.4,1640.0,Bacharelado
+Gastronomia,Caldas Novas,Noturno,40,Superior de Tecnologia,45,1.12,112.5,Tecnólogo
+Gastronomia,Pirenópolis,Noturno,40,Superior de Tecnologia,123,3.08,307.5,Tecnólogo
+Geografia,Anápolis,Noturno,30,Licenciatura,21,0.7,70.0,Licenciatura
+Geografia,Formosa,Noturno,40,Licenciatura,49,1.23,122.5,Licenciatura
+Geografia,Cidade de Goiás,Noturno,40,Licenciatura,13,0.32,32.5,Licenciatura
+Geografia,Itapuranga,Noturno,40,Licenciatura,54,1.35,135.0,Licenciatura
+Geografia,Iporá,Noturno,40,Licenciatura,39,0.98,97.5,Licenciatura
+Geografia,Morrinhos,Noturno,40,Licenciatura,18,0.45,45.0,Licenciatura
+Geografia,Porangatu,Noturno,30,Licenciatura,35,1.17,116.7,Licenciatura
+História,Anápolis,Matutino,40,Licenciatura,44,1.1,110.0,Licenciatura
+História,Formosa,Noturno,40,Licenciatura,73,1.82,182.5,Licenciatura
+História,Goiânia - Laranjeiras,Matutino,40,Licenciatura,97,2.42,242.5,Licenciatura
+História,Goianésia,Noturno,40,Licenciatura,32,0.8,80.0,Licenciatura
+História,Cidade de Goiás,Noturno,40,Licenciatura,20,0.5,50.0,Licenciatura
+História,Iporá,Noturno,40,Licenciatura,18,0.45,45.0,Licenciatura
+História,Morrinhos,Noturno,40,Licenciatura,20,0.5,50.0,Licenciatura
+História,Quirinópolis,Noturno,40,Licenciatura,35,0.88,87.5,Licenciatura
+História,Uruaçu,Noturno,40,Licenciatura,28,0.7,70.0,Licenciatura
+História,Porangatu,Noturno,40,Licenciatura,23,0.57,57.5,Licenciatura
+Letras Português/Inglês,Anápolis,Matutino,40,Licenciatura,59,1.48,147.5,Licenciatura
+Letras Português/Inglês,Formosa,Noturno,40,Licenciatura,69,1.72,172.5,Licenciatura
+Letras Português/Inglês,Cidade de Goiás,Noturno,40,Licenciatura,39,0.98,97.5,Licenciatura
+Letras Português/Inglês,Inhumas,Noturno,40,Licenciatura,26,0.65,65.0,Licenciatura
+Letras Português/Inglês,Iporá,Noturno,40,Licenciatura,28,0.7,70.0,Licenciatura
+Letras Português/Inglês,Itapuranga,Noturno,40,Licenciatura,48,1.2,120.0,Licenciatura
+Letras Português/Inglês,Morrinhos,Noturno,40,Licenciatura,25,0.62,62.5,Licenciatura
+Letras Português/Inglês,Pires do Rio,Noturno,40,Licenciatura,19,0.48,47.5,Licenciatura
+Letras Português/Inglês,Porangatu,Noturno,40,Licenciatura,41,1.02,102.5,Licenciatura
+Letras Português/Inglês,Quirinópolis,Noturno,40,Licenciatura,36,0.9,90.0,Licenciatura
+Letras Português/Inglês,São Luís de Montes Belos,Noturno,40,Licenciatura,34,0.85,85.0,Licenciatura
+Logística,Jataí,Noturno,40,Superior de Tecnologia,25,0.62,62.5,Tecnólogo
+Logística,Senador Canedo,Noturno,40,Superior de Tecnologia,80,2.0,200.0,Tecnólogo
+Matemática,Anápolis,Matutino,40,Licenciatura,30,0.75,75.0,Licenciatura
+Matemática,Formosa,Noturno,40,Licenciatura,41,1.02,102.5,Licenciatura
+Matemática,Cidade de Goiás,Noturno,40,Licenciatura,33,0.82,82.5,Licenciatura
+Matemática,Iporá,Noturno,40,Licenciatura,19,0.48,47.5,Licenciatura
+Matemática,Morrinhos,Noturno,40,Licenciatura,20,0.5,50.0,Licenciatura
+Matemática,Quirinópolis,Noturno,40,Licenciatura,56,1.4,140.0,Licenciatura
+Medicina Veterinária,São Luís de Montes Belos,Integral,30,Bacharelado,472,15.73,1573.3,Bacharelado
+Pedagogia,Anápolis,Matutino,40,Licenciatura,61,1.52,152.5,Licenciatura
+Pedagogia,Anápolis,Noturno,40,Licenciatura,105,2.62,262.5,Licenciatura
+Pedagogia,Campos Belos,Noturno,40,Licenciatura,91,2.28,227.5,Licenciatura
+Pedagogia,Formosa,Matutino,40,Licenciatura,136,3.4,340.0,Licenciatura
+Pedagogia,Goianésia,Noturno,40,Licenciatura,124,3.1,310.0,Licenciatura
+Pedagogia,Inhumas,Noturno,40,Licenciatura,86,2.15,215.0,Licenciatura
+Pedagogia,Jaraguá,Noturno,40,Licenciatura,75,1.88,187.5,Licenciatura
+Pedagogia,Jussara,Noturno,40,Licenciatura,86,2.15,215.0,Licenciatura
+Pedagogia,Luziânia,Noturno,40,Licenciatura,162,4.05,405.0,Licenciatura
+Pedagogia,Minaçu,Noturno,40,Licenciatura,95,2.38,237.5,Licenciatura
+Pedagogia,Pires do Rio,Noturno,40,Licenciatura,46,1.15,115.0,Licenciatura
+Pedagogia,Quirinópolis,Noturno,40,Licenciatura,84,2.1,210.0,Licenciatura
+Pedagogia,São Luís de Montes Belos,Noturno,40,Licenciatura,89,2.22,222.5,Licenciatura
+Pedagogia,São Miguel do Araguaia,Noturno,40,Licenciatura,86,2.15,215.0,Licenciatura
+Pedagogia,Uruaçu,Noturno,40,Licenciatura,77,1.92,192.5,Licenciatura
+Psicologia,Inhumas,Noturno,40,Bacharelado,528,13.2,1320.0,Bacharelado
+Química Industrial,Anápolis,Matutino,30,Bacharelado,91,3.03,303.3,Bacharelado
+Química,Anápolis,Matutino,30,Licenciatura,14,0.47,46.7,Licenciatura
+Sistemas de Informação,Anápolis,Noturno,40,Bacharelado,198,4.95,495.0,Bacharelado
+Sistemas de Informação,Santa Helena de Goiás,Noturno,40,Bacharelado,43,1.08,107.5,Bacharelado
+Sistemas de Informação,Goiânia - Laranjeiras,Noturno,40,Bacharelado,349,8.72,872.5,Bacharelado
+Sistemas para Internet,Ceres,Noturno,40,Superior de Tecnologia,32,0.8,80.0,Tecnólogo
+Sistemas para Internet,Goianésia,Noturno,40,Superior de Tecnologia,95,2.38,237.5,Tecnólogo
+Sistemas para Internet,Itaberaí,Noturno,40,Superior de Tecnologia,85,2.12,212.5,Tecnólogo
+Sistemas para Internet,Pires do Rio,Noturno,40,Superior de Tecnologia,44,1.1,110.0,Tecnólogo
+Sistemas para Internet,Posse,Noturno,40,Superior de Tecnologia,95,2.38,237.5,Tecnólogo
+Turismo,Cidade de Goiás,Noturno,40,Bacharelado,16,0.4,40.0,Bacharelado
+Zootecnia,São Luís de Montes Belos,Integral,30,Bacharelado,73,2.43,243.3,Bacharelado
