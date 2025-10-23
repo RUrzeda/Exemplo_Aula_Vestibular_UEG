@@ -29,6 +29,28 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 📚 Atividade para Alunos
+
+📄 **[ATIVIDADE_DASHBOARD_UEG_FINAL.pdf](ATIVIDADE_DASHBOARD_UEG_FINAL.pdf)**
+
+Atividade prática de análise de dados com o dashboard, desenvolvida para a disciplina de **Sistemas de Apoio à Decisão - Business Intelligence**.
+
+**Detalhes da Atividade:**
+- 📅 **Prazo:** 23/10/2025 às 23:59
+- 📝 **Entrega:** Google Classroom
+- 🎯 **Objetivo:** Desenvolver habilidades de análise de dados e BI
+- ⚠️ **Não vale nota** (atividade de desenvolvimento de competências)
+
+**Conteúdo:**
+1. Análise Exploratória Básica
+2. Análise de Cursos de TI
+3. Análise de Licenciaturas
+4. Análise de Concorrência
+5. Uso dos Filtros
+6. Recomendações Estratégicas (Opcional)
+
+---
+
 ## 📈 Funcionalidades
 
 - Filtros por cidade, curso, tipo e turno
