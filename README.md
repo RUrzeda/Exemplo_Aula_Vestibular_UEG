@@ -5,7 +5,7 @@
 **Este dashboard foi criado com IA e VibeCoding como exemplo de estudo de caso para a disciplina de Sistemas de Apoio a Decisão - Aula de BI.**
 
 - ⚠️ Pode conter erros e não foi revisado
-- 🚫 **NÃO deve ser divulgado** fora do contexto acadêmico
+- 🚫 **NÃO deve ser divulgado**
 - 🏫 Uso exclusivo para fins educacionais
 
 ---

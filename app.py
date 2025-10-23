@@ -16,7 +16,7 @@ st.title("🎓 Dashboard Vestibular UEG 2026/1")
 st.markdown("### Análise de Inscrições Deferidas por Curso e Cidade")
 
 # Aviso importante
-st.warning("⚠️ **AVISO IMPORTANTE:** Este dashboard foi criado com IA e VibeCoding como exemplo de estudo de caso para a disciplina de **Sistemas de Apoio a Decisão - Aula de BI**. Pode conter erros e não foi revisado. **NÃO deve ser divulgado** fora do contexto acadêmico.")
+st.warning("⚠️ **AVISO IMPORTANTE:** Este dashboard foi criado com IA e VibeCoding como exemplo de estudo de caso para a disciplina de **Sistemas de Apoio a Decisão - Aula de BI**. Pode conter erros e não foi revisado. **NÃO deve ser divulgado.**")
 st.markdown("---")
 
 # Carregar dados
