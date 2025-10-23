@@ -15,8 +15,8 @@ st.set_page_config(
 st.title("🎓 Dashboard Vestibular UEG 2026/1")
 st.markdown("### Análise de Inscrições Deferidas por Curso e Cidade")
 
-# Destacar cobertura dos dados
-st.success("✅ **Cobertura dos Dados:** 14.204 inscrições extraídas - **100% de cobertura completa!**")
+# Aviso importante
+st.warning("⚠️ **AVISO IMPORTANTE:** Este dashboard foi criado com IA e VibeCoding como exemplo de estudo de caso para a disciplina de **Sistemas de Apoio a Decisão - Aula de BI**. Pode conter erros e não foi revisado. **NÃO deve ser divulgado** fora do contexto acadêmico.")
 st.markdown("---")
 
 # Carregar dados

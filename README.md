@@ -1,5 +1,15 @@
 # 🎓 Dashboard Vestibular UEG 2026/1
 
+## ⚠️ AVISO IMPORTANTE
+
+**Este dashboard foi criado com IA e VibeCoding como exemplo de estudo de caso para a disciplina de Sistemas de Apoio a Decisão - Aula de BI.**
+
+- ⚠️ Pode conter erros e não foi revisado
+- 🚫 **NÃO deve ser divulgado** fora do contexto acadêmico
+- 🏫 Uso exclusivo para fins educacionais
+
+---
+
 Dashboard interativo para análise de inscrições deferidas do Vestibular UEG 2026/1.
 
 ## 📊 Dados
